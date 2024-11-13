@@ -1,5 +1,5 @@
 /* Write your CSS here */
-.match-card {
+.match-item {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -14,7 +14,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .match-card {
+  .match-item {
     width: 30%;
     padding: 24px;
     margin-bottom: 32px;
